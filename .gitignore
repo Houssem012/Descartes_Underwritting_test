@@ -1,0 +1,5 @@
+test_auto.csv
+train_auto.csv
+*.odt
+.ipynb_checkpoints
+.vscode
